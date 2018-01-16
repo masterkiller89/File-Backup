@@ -1,0 +1,11 @@
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Release\Backup.exe.config
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Release\Backup.exe
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Release\Backup.pdb
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Release\Backup.xml
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Release\Backup.Backup.resources
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Release\Backup.Resources.resources
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Release\Backup.vbproj.GenerateResource.Cache
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Release\Backup.exe
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Release\Backup.xml
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Release\Backup.pdb

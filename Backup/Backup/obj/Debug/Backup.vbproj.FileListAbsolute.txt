@@ -1,0 +1,24 @@
+D:\New folder\Backup\Backup\bin\Debug\Backup.exe.config
+D:\New folder\Backup\Backup\bin\Debug\Backup.exe
+D:\New folder\Backup\Backup\bin\Debug\Backup.pdb
+D:\New folder\Backup\Backup\bin\Debug\Backup.xml
+D:\New folder\Backup\Backup\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\Backup\Backup\obj\Debug\Backup.Backup.resources
+D:\New folder\Backup\Backup\obj\Debug\Backup.MirrorWarning.resources
+D:\New folder\Backup\Backup\obj\Debug\Backup.Resources.resources
+D:\New folder\Backup\Backup\obj\Debug\Backup.UserSettings.resources
+D:\New folder\Backup\Backup\obj\Debug\Backup.vbproj.GenerateResource.Cache
+D:\New folder\Backup\Backup\obj\Debug\Backup.exe
+D:\New folder\Backup\Backup\obj\Debug\Backup.xml
+D:\New folder\Backup\Backup\obj\Debug\Backup.pdb
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Debug\Backup.exe.config
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Debug\Backup.exe
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Debug\Backup.xml
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Debug\Backup.pdb
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Debug\Backup.exe
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Debug\Backup.pdb
+C:\Users\Kenny\Desktop\Backup\Backup\bin\Debug\Backup.xml
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Debug\Backup.Backup.resources
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Debug\Backup.Resources.resources
+C:\Users\Kenny\Desktop\Backup\Backup\obj\Debug\Backup.vbproj.GenerateResource.Cache
